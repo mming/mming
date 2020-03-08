@@ -1,4 +1,4 @@
-/*
+/* 0308 同步
 README：https://github.com/yichahucha/surge/tree/master
  */
 
